@@ -17,7 +17,7 @@ function refreshGrid(){
 window.location.reload();
 };
 
- var z = prompt("Hello User,Enter the number of boxes you want? upto 15 is considerable");
+ var z = prompt("Hello User,Enter the number of boxes you want? ");
 function myFunction()
 {
 return document.getElementById("coloq").value;
