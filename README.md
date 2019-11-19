@@ -1,4 +1,4 @@
-ISTE TASK-3
+Colour game
 
 Platform Used: HTML CSS JQUERY Javascript
 
